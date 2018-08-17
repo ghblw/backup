@@ -8,7 +8,8 @@
 1.路径形式：path1:path2:path3
 2.目标目录
 ```
-backup_path=
-dest_dir=
+backup_path=/home/yuxiaowei/shell:/home/yuxiaowei/Notes
+dest_dir=/home/yuxiaowei/data
+log=/home/yuxiaowei/log
 ```
 
